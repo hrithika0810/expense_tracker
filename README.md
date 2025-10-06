@@ -21,25 +21,25 @@ It helps users set spending limits, track expenses, and analyze monthly spending
 
 ### 📸 App Preview
 <p alig="center">
- <img src="preview/app.jpg" alt="App Screen" width="150"/>
+ <img src="preview/app.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
-  <img src="preview/authentication-screen.jpg" alt="App Screen" width="150"/>
+  <img src="preview/authentication-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
-  <img src="preview/budget-records-screen.jpg" alt="App Screen" width="150"/>
+  <img src="preview/budget-records-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
-  <img src="preview/budget-violation-remainder-screen.jpg" alt="App Screen" width="150"/>
+  <img src="preview/budget-violation-remainder-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
-  <img src="preview/main-screen.jpg" alt="App Screen" width="150"/>
+  <img src="preview/main-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
-  <img src="preview/monthly-summary-screen.jpg" alt="App Screen" width="150"/>
+  <img src="preview/monthly-summary-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
-  <img src="preview/ongoing-budget-screen.jpg" alt="App Screen" width="150"/>
+  <img src="preview/ongoing-budget-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
-  <img src="preview/set-budget-screen.jpg" alt="App Screen" width="150"/>
+  <img src="preview/set-budget-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
-  <img src="preview/transaction-entry-screen.jpg" alt="App Screen" width="150"/>
+  <img src="preview/transaction-entry-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
-  <img src="preview/transaction-record-screen.jpg" alt="App Screen" width="150"/>
+  <img src="preview/transaction-record-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
 </p>
 🧑‍💻 Developer - Hrithika S <br/>
