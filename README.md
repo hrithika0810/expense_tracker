@@ -42,5 +42,3 @@ It helps users set spending limits, track expenses, and analyze monthly spending
   <img src="preview/transaction-record-screen.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
 </p>
-🧑‍💻 Developer - Hrithika S <br/>
-📍 Chennai, India
