@@ -1,17 +1,17 @@
 # Expense Tracker — FARM Stack
-### 🧩 About
+### About
 Expense Tracker is a personal finance management app built using the FARM stack — FastAPI, React Native, and MongoDB, designed and developed with Expo, VS Code, and Figma.
 
 It helps users set spending limits, track expenses, and analyze monthly spending efficiently through a clean and intuitive interface.
 
-### ⚙️ Tech Stack
+### Tech Stack
   * Frontend: React Native + Expo
   * Backend: FastAPI (Python)
   * Database: MongoDB (NoSQL)
   * Design Tools: Figma (UI/UX Design)
   * IDE: Visual Studio Code
 
-### 🚀 Features
+### Features
 1. Category Limits — Set budget limits for each spending category.
 2. Transaction Log — Record every transaction with date, category, and amount.
 3. View Ongoing Limits — Track your currently active category limits.
@@ -19,7 +19,7 @@ It helps users set spending limits, track expenses, and analyze monthly spending
 5. Monthly Summary — Visualize your total spending per category for each month.
 6. Budget Violation Alerts — Get notified when you exceed your set budget limi
 
-### 📸 App Preview
+### App Preview
 <p alig="center">
  <img src="preview/app.jpg" alt="App Screen" width="200"/>
  &nbsp;&nbsp;
