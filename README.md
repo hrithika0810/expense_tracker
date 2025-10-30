@@ -17,7 +17,7 @@ It helps users set spending limits, track expenses, and analyze monthly spending
 3. View Ongoing Limits — Track your currently active category limits.
 4. Limit History — Review limits that are completed, exceeded, or deleted.
 5. Monthly Summary — Visualize your total spending per category for each month.
-6. Budget Violation Alerts — Get notified when you exceed your set budget limi
+6. Budget Violation Alerts — Get notified when you exceed your set budget limit
 
 ### App Preview
 <p alig="center">
